@@ -11,8 +11,9 @@
 ## Release v1.1.0
 
 - Solicitud de cambio: `ISSUE-21` / GitHub Issue `#1`.
+- Aprobación: GitHub Pull Request `#2`, fusionado en `main`.
 - Retiro de configuración local del control de versiones.
 - Normalización de tags según SemVer.
 - Changelog, registro de estados y plantilla de PR actualizados.
-- Estado: **En revisión**, hasta aprobación y fusión del Pull Request.
+- Estado: **Aprobado para liberación** mediante el Pull Request `#2`.
 
