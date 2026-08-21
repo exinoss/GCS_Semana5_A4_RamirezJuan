@@ -1,6 +1,6 @@
 [project]
 name = "api-inventario"
-version = "1.0.0"
+version = "1.1.0"
 description = "API mínima de inventario para una práctica de gestión de configuración"
 readme = "README.md"
 requires-python = ">=3.12"
@@ -21,4 +21,3 @@ testpaths = ["tests"]
 
 [tool.uv]
 package = false
-
