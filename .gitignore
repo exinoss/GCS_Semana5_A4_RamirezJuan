@@ -1,0 +1,15 @@
+# Entorno y cachés de Python
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Configuración local y secretos
+.env
+config/.env
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+

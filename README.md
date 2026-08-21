@@ -32,4 +32,10 @@ uv run pytest
 
 - Commits: `chore`, `docs`, `feat` o `fix` más una referencia `ISSUE-xx`.
 - Versiones: SemVer con el formato `vMAJOR.MINOR.PATCH`.
+- Todo cambio aprobado debe vincular un Issue, un Pull Request y su evidencia en
+  el registro de estados.
 
+## Baselines
+
+- `v1.0.0`: API, pruebas, SRS v1 y documentación inicial.
+- `v1.1.0`: saneamiento de seguridad, versionado y trazabilidad de `ISSUE-21`.
