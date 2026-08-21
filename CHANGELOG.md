@@ -12,3 +12,4 @@ Todos los cambios relevantes de este proyecto se documentarán en este archivo.
 - API mínima con operaciones para listar y agregar productos.
 - SRS v1 y pruebas automatizadas iniciales.
 
+# hotfix note
