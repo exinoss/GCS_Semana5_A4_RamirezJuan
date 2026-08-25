@@ -6,6 +6,19 @@ Todos los cambios relevantes de este proyecto se documentarán en este archivo.
 
 - Pendiente.
 
+## [v1.2.0] - 2026-08-24
+
+### Auditoría de configuración
+
+- Se agregó `LICENSE` (MIT), corrigiendo un hallazgo de la auditoría física de
+  elementos de configuración (`ISSUE-22`).
+- Se documentó la validación funcional de `REQ-001` y `REQ-002` con 3 criterios
+  de aceptación por endpoint y evidencia de pruebas en
+  `docs/CM/VALIDACION_FUNCIONAL.md` (`ISSUE-23`).
+- Se actualizó `CM_STATUS_REGISTER.md` con la trazabilidad issue → PR → elemento
+  de configuración del ciclo (`ISSUE-24`).
+- Se preparó y documentó la emisión del release `v1.2.0` (`ISSUE-25`).
+
 ## [v1.1.0] - 2026-08-21
 
 ### Seguridad
