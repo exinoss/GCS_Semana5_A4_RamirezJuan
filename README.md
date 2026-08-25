@@ -39,3 +39,5 @@ uv run pytest
 
 - `v1.0.0`: API, pruebas, SRS v1 y documentación inicial.
 - `v1.1.0`: saneamiento de seguridad, versionado y trazabilidad de `ISSUE-21`.
+- `v1.2.0`: auditoría de configuración (física, funcional y de trazabilidad) y
+  release controlado, `ISSUE-22` a `ISSUE-25`.

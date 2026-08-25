@@ -15,7 +15,7 @@ class Product(ProductCreate):
     """Producto almacenado en el inventario."""
 
 
-app = FastAPI(title="API Inventario", version="1.1.0")
+app = FastAPI(title="API Inventario", version="1.2.0")
 products: list[Product] = []
 
 
